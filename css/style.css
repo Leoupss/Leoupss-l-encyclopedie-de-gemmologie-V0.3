@@ -1,0 +1,56 @@
+
+
+
+body{
+	background-image: url("../img/fond.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+h1{
+	color: whitesmoke;
+	margin-left: 110px;
+	font-size: 80px;
+
+}
+
+header.header1{
+	display: flex;
+	align-items: center;
+
+
+}
+
+
+li{
+	color: whitesmoke;
+}
+
+
+a{
+	color: whitesmoke;
+
+}
+
+
+/*menu de navigation*/
+
+nav.nav{
+	display: flex;
+	list-style: none;
+
+}
+
+
+
+header.header2{
+	display: flex;
+	align-items: center;
+	list-style: none;
+	justify-content: space-between;
+
+	width: 1000px;
+
+
+
+}
